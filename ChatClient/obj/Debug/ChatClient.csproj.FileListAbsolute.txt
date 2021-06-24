@@ -1,0 +1,15 @@
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\App.g.cs
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+I:\_Programs\_Visual_Studio\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

@@ -1,0 +1,10 @@
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\ChatHost.exe.config
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\ChatHost.exe
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\ChatHost.pdb
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\Chat.dll
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\Chat.pdb
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.exe
+I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.pdb

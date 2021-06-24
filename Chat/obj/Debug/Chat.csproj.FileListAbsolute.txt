@@ -1,0 +1,6 @@
+I:\_Programs\_Visual_Studio\ChatClient\Chat\bin\Debug\Chat.dll
+I:\_Programs\_Visual_Studio\ChatClient\Chat\bin\Debug\Chat.pdb
+I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.dll
+I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.pdb
