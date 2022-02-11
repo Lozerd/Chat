@@ -4,3 +4,9 @@ I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.csproj.AssemblyRefere
 I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
 I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.dll
 I:\_Programs\_Visual_Studio\ChatClient\Chat\obj\Debug\Chat.pdb
+C:\Users\Lozerd\RiderProjects\Chat\Chat\bin\Debug\Chat.dll
+C:\Users\Lozerd\RiderProjects\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Lozerd\RiderProjects\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\Lozerd\RiderProjects\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Lozerd\RiderProjects\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\Lozerd\RiderProjects\Chat\Chat\obj\Debug\Chat.pdb

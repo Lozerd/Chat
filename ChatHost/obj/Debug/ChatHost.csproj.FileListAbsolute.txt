@@ -8,3 +8,14 @@ I:\_Programs\_Visual_Studio\ChatClient\ChatHost\bin\Debug\Chat.pdb
 I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
 I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.exe
 I:\_Programs\_Visual_Studio\ChatClient\ChatHost\obj\Debug\ChatHost.pdb
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\bin\Debug\Chat.dll
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\bin\Debug\Chat.pdb
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Lozerd\RiderProjects\Chat\ChatHost\obj\Debug\ChatHost.pdb
